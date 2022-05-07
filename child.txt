@@ -1,2 +1,3 @@
 child.txt
 child add1
+parent add child.txt
